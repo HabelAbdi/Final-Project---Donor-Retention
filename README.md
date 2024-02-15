@@ -12,33 +12,34 @@ This project aims to address challenges faced by charities regarding donor churn
 ## Background:
 Charities accumulate a vast amount of data, including donor information, contributions, engagement metrics, and other relevant details. However, the quality of this data is crucial for meaningful analysis and decision-making
 
-## Data Quality Issues: 
+Data Quality Issues: 
 The data collected by charities may have various issues such as missing values, inaccuracies, inconsistencies, or duplications. These issues can arise due to manual errors, system glitches, or gaps in data collection processes.
 
-## Unstructured Formats: 
+Unstructured Formats: 
 Data might be stored in unstructured formats, making it challenging to extract valuable insights. For example, donor addresses might be entered in various formats, or donation amounts may be recorded inconsistently.
 
 
 
-## Why is Clean Data so Important?
+Why is Clean Data so Important?
 Effective Analysis: Clean and well-structured data is essential for accurate and effective analysis. Analysts need reliable data to draw meaningful conclusions and insights.
 
 Robust Models: Data quality directly impacts the performance of machine learning models. Models trained on clean data are more likely to generalize well to new, unseen data.
 
 Trustworthy Insights: Clean data instills confidence in the insights derived from analysis. Decision-makers can trust the information presented, leading to more informed and confident decisions.
 
-## Whats the need fo Regular Data Upkeep?
+What's the need for Regular Data Upkeep?
 Regular Maintenance: Charities need to engage in regular data maintenance activities to ensure data cleanliness. This involves identifying and rectifying errors, handling missing values, and standardizing formats.
 
 Data Preprocessing: Before analysis, data preprocessing steps may include normalization, scaling, or transforming variables to make them suitable for modeling. This ensures that the data is in a form that algorithms can effectively process.
 
-## Whats does all this get a Charity?
+What does all this get a Charity?
 Efficiency: Analysts can work more efficiently with clean data, focusing on analysis and interpretation rather than spending time addressing data quality issues.
 
 Reliable Results: Clean data produces reliable and reproducible results, reinforcing the credibility of the analyses and insights generated.
 
 ## Summary: 
-Process of accessing clean data involves addressing data quality issues and ensuring that the data is structured and prepared for analysis. This is a foundational step for charities seeking to derive meaningful insights from their donor data.
+The process of accessing clean data involves addressing data quality issues and ensuring that the data is structured and prepared for analysis. This is a foundational step for charities seeking to derive meaningful insights from their donor data.
+
 
 
 2. Analyzing non-linear relationships in donor data.
@@ -46,22 +47,23 @@ Process of accessing clean data involves addressing data quality issues and ensu
 ## Background:
 Large charities often accumulate a vast amount of data regarding their donors, capturing various attributes or features related to donor behavior, contributions, engagement, and other relevant factors. Traditional data analysis methods might focus on simple or linear relationships between these variables. For instance, one might examine how an increase in one variable, like the frequency of donations, linearly correlates with another variable, such as total donation amounts.
 
-## Examples of Non-Linear Relationships:
+Examples of Non-Linear Relationships:
 Diminishing Returns: As the frequency of donations increases, the impact on total donation amounts might exhibit diminishing returns. Initially, more frequent donations could lead to a substantial increase in total contributions, but there may be a point where additional donations result in smaller incremental gains.
 
 Threshold Effects: There could be a specific threshold for certain donor characteristics, beyond which the impact on engagement or contribution levels sharply changes. For instance, the effect of donor age on engagement might significantly differ for donors below and above a certain age threshold.
 
-## Importance of Exploring Non-Linear Relationships:
+Importance of Exploring Non-Linear Relationships:
 Improved Predictions: Analyzing non-linear relationships allows for more accurate predictive models. Linear models might overlook patterns that significantly influence donor behavior.
 
-## Tailored Engagement Strategies: 
+Tailored Engagement Strategies: 
 Understanding non-linear relationships helps in crafting more targeted and effective engagement strategies. For instance, recognizing a point of diminishing returns might influence decisions on how often to reach out to donors.
 
-## Enhanced Decision-Making: 
+Enhanced Decision-Making: 
 Insights from non-linear relationships empower charities to make informed decisions about resource allocation, communication strategies, and donor retention efforts.
 
 ## Summary
 Exploring non-linear relationships in donor data enables charities to unearth hidden patterns and nuances, leading to more precise predictions and tailored strategies for donor engagement and retention.
+
 
 
 3. Retaining and engaging donors effectively.
