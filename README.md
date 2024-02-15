@@ -131,17 +131,17 @@ I Compared the results of the original model with tuned versions, highlighting t
 
 ## Model Metrics
 
-| Metric            | Original | Tuned 1| Tuned 2 |  Model  |
+| Metric       | Original | Tuned 1| Tuned 2 |  Model  |
 
-| Accuracy          | 0.900    | 0.883  | 0.889   |   GB    |
+| Accuracy     | 0.900    | 0.883  | 0.889   |   GB    |
 
-| Precision         | 0.769    | 0.739  | 0.773   |   GB    |
+| Precision    | 0.769    | 0.739  | 0.773   |   GB    |
 
-| Recall            | 0.625    | 0.531  | 0.531   |   GB    |
+| Recall       | 0.625    | 0.531  | 0.531   |   GB    |
 
-| F1 Score          | 0.690    | 0.618  | 0.630   |   GB    |
+| F1 Score     | 0.690    | 0.618  | 0.630   |   GB    |
 
-| ROC AUC Score     | 0.792    | 0.745  | 0.749   |   GB    |
+| ROC AUC      | 0.792    | 0.745  | 0.749   |   GB    |
 
 ## Key Metric Explanations & Interpretations
 
