@@ -5,11 +5,11 @@
 This project aims to address challenges faced by charities regarding donor churn. Donor churn is the phenomenon where individuals cease their contributions to a charity. By leveraging data science techniques, I aim to help predict and understand donor behavior to aid charities in tailoring engagement strategies.
 
 
-## Charities encounter difficulties in: 
+Charities encounter difficulties in: 
 
-1. Accessing clean and usable data for analysis.
+## 1. Accessing clean and usable data for analysis.
    
-## Background:
+Background:
 Charities accumulate a vast amount of data, including donor information, contributions, engagement metrics, and other relevant details. However, the quality of this data is crucial for meaningful analysis and decision-making
 
 Data Quality Issues: 
@@ -38,7 +38,7 @@ Efficiency: Analysts can work more efficiently with clean data, focusing on anal
 
 Reliable Results: Clean data produces reliable and reproducible results, reinforcing the credibility of the analyses and insights generated.
 
-## Summary: 
+Summary: 
 The process of accessing clean data involves addressing data quality issues and ensuring that the data is structured and prepared for analysis. This is a foundational step for charities seeking to derive meaningful insights from their donor data.
 
 
@@ -47,9 +47,9 @@ The process of accessing clean data involves addressing data quality issues and 
 
 
 
-2. Analyzing non-linear relationships in donor data.
+## 2. Analyzing non-linear relationships in donor data.
    
-## Background:
+Background:
 Large charities often accumulate a vast amount of data regarding their donors, capturing various attributes or features related to donor behavior, contributions, engagement, and other relevant factors. Traditional data analysis methods might focus on simple or linear relationships between these variables. For instance, one might examine how an increase in one variable, like the frequency of donations, linearly correlates with another variable, such as total donation amounts.
 
 Examples of Non-Linear Relationships:
@@ -66,14 +66,14 @@ Understanding non-linear relationships helps in crafting more targeted and effec
 Enhanced Decision-Making: 
 Insights from non-linear relationships empower charities to make informed decisions about resource allocation, communication strategies, and donor retention efforts.
 
-## Summary
+Summary
 Exploring non-linear relationships in donor data enables charities to unearth hidden patterns and nuances, leading to more precise predictions and tailored strategies for donor engagement and retention.
 
 
 
-3. Retaining and engaging donors effectively.
+## 3. Retaining and engaging donors effectively.
    
-## Background:
+Background:
 Charities encounter challenges in retaining and engaging donors effectively. This involves understanding and addressing the factors that influence donor loyalty and participation. Traditionally, strategies have often been linear and straightforward, focusing on general outreach rather than delving into the nuanced, non-linear aspects of donor relationships.
 
 The Challenge:
@@ -102,7 +102,7 @@ Strategic Resource Allocation:
 
 Advantage: Non-linear insights empower charities to allocate resources strategically, focusing efforts where they are most likely to yield positive donor responses.
 
-## Summary:
+Summary:
 Effectively retaining and engaging donors requires acknowledging and navigating the non-linear dynamics inherent in donor relationships. By doing so, charities can move beyond conventional strategies, providing a more personalized and responsive donor experience, and ultimately fostering long-term donor loyalty.
 
 
