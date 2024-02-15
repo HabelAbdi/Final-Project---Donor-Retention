@@ -131,15 +131,12 @@ I Compared the results of the original model with tuned versions, highlighting t
 
 ## Model Metrics
 
-+-------------------+----------+--------+---------+---------+
 | Metric            | Original | Tuned 1| Tuned 2 |  Model  |
-+-------------------+----------+--------+---------+---------+
 | Accuracy          | 0.900    | 0.883  | 0.889   |   GB    |
 | Precision         | 0.769    | 0.739  | 0.773   |   GB    |
 | Recall            | 0.625    | 0.531  | 0.531   |   GB    |
 | F1 Score          | 0.690    | 0.618  | 0.630   |   GB    |
 | ROC AUC Score     | 0.792    | 0.745  | 0.749   |   GB    |
-+-------------------+----------+--------+---------+---------+
 
 ## Key Metric Explanations & Interpretations
 
@@ -147,18 +144,26 @@ Accuracy:
 
 Explanation: Accuracy represents the overall correctness of the model's predictions.
 Charity Context: A high accuracy indicates the percentage of correct predictions among all instances. However, in the context of donor churn, it may not be the sole metric to rely on. For example, a high accuracy could result from a model that predominantly predicts non-churning donors, potentially missing critical instances of churn.
+
+
 Precision:
 
 Explanation: Precision measures the accuracy of positive predictions made by the model.
 Charity Context: Precision is crucial for the charity to minimize false positives. In the context of donor churn, high precision means that when the model predicts a donor is likely to churn, it is likely correct. This is important for resource allocation, as reaching out to donors requires time and effort.
+
+
 Recall:
 
 Explanation: Recall measures the ability of the model to capture all positive instances.
 Charity Context: Recall is vital for the charity to minimize false negatives. In the context of donor churn, high recall indicates that the model is effective at identifying most actual churning donors. Missing a donor who is likely to churn could result in a loss of contributions, making recall crucial for proactive engagement.
+
+
 F1 Score:
 
 Explanation: The F1 score is the harmonic mean of precision and recall.
 Charity Context: The F1 score provides a balanced measure that considers both false positives and false negatives. It's particularly relevant for the charity to strike a balance between identifying actual churning donors (recall) and ensuring the predictions are accurate (precision).
+
+
 ROC AUC Score:
 
 Explanation: ROC AUC (Receiver Operating Characteristic Area Under the Curve) evaluates the model's ability to distinguish between classes.
